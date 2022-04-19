@@ -203,5 +203,4 @@ function checkAge(age){
             }  
         } 
        
-
-        aler(checkAge(age));
+(checkAge(age));
